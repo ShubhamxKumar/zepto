@@ -95,7 +95,7 @@ export default function InputComponent() {
               value={search}
               onChange={onInputChange}
               onKeyDown={onKeyDown}
-              autoComplete="false"
+              autoComplete="off"
             />
             <DisplayList
               displayDropdown={displayDropdown}
