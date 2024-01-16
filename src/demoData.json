@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "John Smith",
+      "email": "john.smith@gmail.com",
+      "image": "https://randomuser.me/api/portraits/men/41.jpg"
+    },
+    {
+      "name": "Emily Johnson",
+      "email": "emily.johnson@yahoo.com",
+      "image": "https://randomuser.me/api/portraits/women/35.jpg"
+    },
+    {
+      "name": "David Williams",
+      "email": "david.williams@hotmail.com",
+      "image": "https://randomuser.me/api/portraits/men/85.jpg"
+    },
+    {
+      "name": "Maria Garcia",
+      "email": "maria.garcia@outlook.com",
+      "image": "https://randomuser.me/api/portraits/women/62.jpg"
+    },
+    {
+      "name": "Robert Brown",
+      "email": "robert.brown@aol.com",
+      "image": "https://randomuser.me/api/portraits/men/54.jpg"
+    },
+    {
+      "name": "Jennifer Miller",
+      "email": "jennifer.miller@mail.com",
+      "image": "https://randomuser.me/api/portraits/women/23.jpg"
+    },
+    {
+      "name": "Michael Jones",
+      "email": "michael.jones@protonmail.com",
+      "image": "https://randomuser.me/api/portraits/men/78.jpg"
+    },
+    {
+      "name": "Lisa Rodriguez",
+      "email": "lisa.rodriguez@zoho.com",
+      "image": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "name": "William Jackson",
+      "email": "william.jackson@yandex.com",
+      "image": "https://randomuser.me/api/portraits/men/92.jpg"
+    },
+    {
+      "name": "Elizabeth Wilson",
+      "email": "elizabeth.wilson@icloud.com",
+      "image": "https://randomuser.me/api/portraits/women/58.jpg"
+    }
+  ]
+}
